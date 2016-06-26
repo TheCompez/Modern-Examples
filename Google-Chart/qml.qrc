@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Geo.qml</file>
+        <file>Scatter.qml</file>
+        <file>loading.gif</file>
+        <file>GColumn.qml</file>
+        <file>Histogram.qml</file>
+        <file>LineChart.qml</file>
+        <file>Pie.qml</file>
+        <file>GTable.qml</file>
+        <file>WordTree.qml</file>
+    </qresource>
+</RCC>
