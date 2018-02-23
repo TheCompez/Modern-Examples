@@ -2,7 +2,7 @@
  * Author: Kambiz Asadzadeh
  * Back-end: C++
  * Front-End: QML, JavaScript
- * Official website : https://nanosoftco.com
+ * Official website : https://dotwaves.com
  * Official Iranian C++ website : https://iostream.ir
 */
 
