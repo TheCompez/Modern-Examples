@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Ui/Avatar.qml</file>
+        <file>Resources/fonts/fa-solid-900.ttf</file>
+        <file>Resources/fonts/Vazir-FD.ttf</file>
+    </qresource>
+</RCC>
