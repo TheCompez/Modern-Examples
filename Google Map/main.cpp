@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
     QtWebEngine::initialize();//Initialize WebEngine!
 
 
-    qmlRegisterType<Map>("Interface.Nanosoft", 1, 0, "Map");
+    qmlRegisterType<Map>("Interface.Dotwaves", 1, 0, "Map");
 
     QQmlApplicationEngine engine;
     engine.load(QUrl(QLatin1String("qrc:/main.qml")));
